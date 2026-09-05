@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-chat_state.json
-memory.json
